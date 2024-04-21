@@ -1,0 +1,1 @@
+python -m PyInstaller --add-data "src\arrows.ico:." --icon=src\arrows.ico --onefile --clean --name=Voltage-dB-Converter -w src\voltage-db_convert.pyw
