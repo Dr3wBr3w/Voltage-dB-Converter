@@ -1,6 +1,6 @@
 # Voltage / dB Converter
 
-Cross-platform Python tkinter GUI that converts between Voltage Root Mean Square (V-RMS), Voltage peak (Vp), Voltage peak to peak (Vpp), dBu (decibel unloaded), dBV (decibel Volt) and dBm (decibel milliwatt)
+Cross-platform Python tkinter GUI that converts between Voltage Root Mean Square (V-RMS), Voltage peak (Vp), Voltage peak to peak (Vpp), dBu (decibel unloaded), dBV (decibel Volt) and dBm (decibel milliwatt). Run **voltage-db_convert.pyw** to launch the GUI.
 
 ![Voltage dB Converter in Windows](/media/ConverterWindows.png "Voltage dB Converter in Windows")
 ![Voltage dB Converter in Linux](/media/ConverterLinux.png "Voltage dB Converter in Linux")
@@ -42,4 +42,4 @@ For Linux, requires a distribution with a GUI. Some Linux distributions may requ
 
 ## Other
 
-The arrows icon was created using [Inkscape](https://inkscape.org/)
+The arrows icon was created with [Inkscape](https://inkscape.org/)
