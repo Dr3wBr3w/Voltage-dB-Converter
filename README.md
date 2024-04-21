@@ -27,7 +27,7 @@ For Linux, requires a distribution with a GUI. Some Linux distributions may requ
 - Ubuntu: `sudo apt install python3-tk`
 - CentOS: `sudo yum install python3-tkinter`
 
-## Build Windows Exectutable
+## Build Windows Executable
 
 1. If you want to build this script into a portable Windows executable so the user doesn't need to install Python:
 
